@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack developer</h3>
 
 - 💬 Ask me about **react,javascript,html,materialUi,nodeJs,HapiJs,redux,AWS Dynamodb,AWS Lambda,AWS S3,mySql**
--     Currently Learning **Python**
--     Working On **searching and sorting**
--     Intrested In Learning **AI,ML**
+- Currently Learning **Python**
+- Working On **searching and sorting**
+- Intrested In Learning **AI,ML**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sri-harsha-godavarthi-2895a0185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri harsha godavarthi" height="30" width="40" /></a>
